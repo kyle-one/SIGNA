@@ -7,6 +7,31 @@ MLRSIC(Multi-Label Remote Sensing Image Classification), as one of the fundament
 # Results
 ![image](https://user-images.githubusercontent.com/44631434/182540022-051e6a3d-13e4-44f1-bdf7-afa3f246b9f0.png)
 
+# citation:
+
+If you find our work is useful, please kindly cite the following:
+BibTeX
+```
+@misc{https://doi.org/10.48550/arxiv.2208.02613,
+  doi = {10.48550/ARXIV.2208.02613},
+  
+  url = {https://arxiv.org/abs/2208.02613},
+  
+  author = {Liu, Yongkun and Ni, Kesong and Zhang, Yuhan and Zhou, Lijian and Zhao, Kun},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
+
+
 
 
 
