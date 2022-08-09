@@ -1,4 +1,4 @@
-# Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification
+# Semantic Interleaving Global Channel Attention for Multilabel Remote Sensing Image Classification  [(arXiv)](https://arxiv.org/abs/2208.02613)
 
 
 # Abstract
